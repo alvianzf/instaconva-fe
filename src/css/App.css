@@ -1,0 +1,26 @@
+@import "./Auth.css";
+
+input {
+    max-width: 100%;
+    padding: 1em;
+    border: 1px solid #909090;
+    border-radius: 8px;
+}
+
+.button {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+.primary {
+    background-color: #CF3197;
+    color: #fff;
+}
+
+.primary:hover {
+    
+    background-color: #aa277c;
+}
